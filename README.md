@@ -1,2 +1,2 @@
 # Digit-recognizer
-Digit recognition using neural networks
+Basic digit recognition program created using neural networks
